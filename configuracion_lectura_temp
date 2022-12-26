@@ -1,0 +1,10 @@
+Configuracion:
+
+	Analog - ADC1 habilitando el canal de sensor de temp. de la placa
+
+Peticion DMA:
+
+	Modo circular. 
+	Longitud de palabra.
+	Habilitamos conversion en modo continuo 
+	Habilitamos las peticiones continuas de DMA
